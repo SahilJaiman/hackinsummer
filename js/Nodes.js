@@ -1,7 +1,7 @@
 var Nodes = {
 
   // Settings
-  density: 16,
+  density:16,
   
   drawDistance: 28,
   baseRadius: 4,
